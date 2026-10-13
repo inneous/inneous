@@ -49,3 +49,6 @@ ${\textsf{\color{#DF2D20} As someone who can't really do basic code, }}$
    <br><p align="center"> ${\textsf{\color{#944842} If this is a problem, whoever sees it as one can contact me and let me know.}}$
       
 </details>
+
+<br><p align="center"> ![image](https://files.catbox.moe/06ts3f.png)
+<br><p align="center"> ${\textsf{\color{#DF2D20}ME!!!}}$
