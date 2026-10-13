@@ -50,5 +50,5 @@ ${\textsf{\color{#DF2D20} As someone who can't really do basic code, }}$
       
 </details>
 
-<br><p align="center"> ![image](https://files.catbox.moe/06ts3f.png)
+<br><p align="center"> ![image](https://files.catbox.moe/p4up9n.png)
 <br><p align="center"> ${\textsf{\color{#DF2D20}ME!!!}}$
